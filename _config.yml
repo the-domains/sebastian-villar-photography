@@ -1,4 +1,3 @@
-layout_spectrum: 0.4145417236723006
 typography_spectrum: 0.0790504296310246
 color:
   brandStrength: 0.21475974516943097
@@ -11,6 +10,8 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-name: Sebastian Villar Photography
+layout_spectrum: 0.4145417236723006
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c76525c1-7ebc-461d-a236-78eb7f49ee45.png
+name: Sebastian Villar
+title: Photography
